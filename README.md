@@ -1,1 +1,1 @@
-Shell navigation in my ALX journey
+Shell init and variations
